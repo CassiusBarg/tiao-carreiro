@@ -28,7 +28,7 @@ Exibe as 5 músicas mais tocadas de Tião Carreiro e Pardinho e permite que usu�
 
 ### 1. Clonar repositório
 ```bash
-git clone https://github.com/seuusuario/tiao-carreiro.git
+git clone https://github.com/CassiusBarg/tiao-carreiro.git
 cd tiao-carreiro
 ```
 
