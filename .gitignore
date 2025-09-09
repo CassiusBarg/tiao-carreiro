@@ -1,0 +1,20 @@
+# Laravel
+/vendor
+/node_modules
+/.env
+/storage/oauth-private.key
+/storage/oauth-public.key
+/bootstrap/cache
+
+# PHPStorm, etc.
+/.idea/
+.DS_Store
+
+# Logs
+/storage/logs
+
+# React
+/frontend/node_modules
+
+# Docker
+*.env.local
